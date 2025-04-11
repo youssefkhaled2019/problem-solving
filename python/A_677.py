@@ -1,7 +1,7 @@
 """
 contest = https://codeforces.com/contest/677/problem/A
 date = Tuesday, May 9, 2023
-
+Verdict = Accepted
 """
 
 n,h=list(map(int,input().split(" ")))

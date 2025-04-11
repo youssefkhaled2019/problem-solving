@@ -1,7 +1,7 @@
 """
 contest = https://codeforces.com/contest/734/problem/A
 date = Tuesday, May 9, 2023
-
+Verdict = Accepted
 """
 
 n=int(input())
