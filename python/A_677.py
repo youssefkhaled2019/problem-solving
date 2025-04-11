@@ -1,0 +1,16 @@
+"""
+contest = https://codeforces.com/contest/677/problem/A
+date = Tuesday, May 9, 2023
+
+"""
+
+n,h=list(map(int,input().split(" ")))
+l=list(map(int,input().split(" ")))
+s=0
+for i in range(n):
+    if (l[i]>h):
+        s+=2
+    else:
+        s+=1
+ 
+print(s)
